@@ -1,0 +1,1 @@
+{"permissions":{"deny":["Read(./.env)","Read(./.env.*)","Read(./**/.env)","Edit(./.env)","Bash(cat .env*)","Bash(printenv*)","Bash(docker volume rm*)","Bash(rm -rf*)"],"allow":["Read(./.env.example)"]}}
